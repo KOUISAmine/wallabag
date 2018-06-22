@@ -24,6 +24,10 @@ cd wallabag && make install
 
 Now, [configure a virtual host](https://doc.wallabag.org/en/admin/installation/virtualhosts.html) to use your wallabag. 
 
+Wallabag is also available as a [Yunohost](http://yunohost.org/) app:
+[![Install Wallabag v2 with YunoHost](https://install-app.yunohost.org/install-with-yunohost.png)](https://install-app.yunohost.org/?app=wallabag2)
+
+
 # License
 Copyright © 2013-2018 Nicolas Lœuillet <nicolas@loeuillet.org>
 This work is free. You can redistribute it and/or modify it under the
